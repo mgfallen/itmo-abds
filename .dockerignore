@@ -1,0 +1,6 @@
+volume/
+data/
+.git/
+.idea/
+.env
+.env.local
